@@ -8,7 +8,10 @@
 
 
 🤹‍♂️ **I am also active on Gitlab**
-<a href="https://gitlab.com/abdullahqureshi5" target="blank"><img align="center" src="https://about.gitlab.com/images/press/logo/wm.svg" alt="gitlab" height="30" width="40" /></a>
+<p  align="left">
+<a href="https://gitlab.com/abdullahqureshi5" target="blank"><img align="center" src="https://about.gitlab.com/images/press/logo/wm.svg" alt="gitlab" height="80" width="100" /></a>
+</p>
+
 
 
 🔗 &nbsp;**Connect with me**
