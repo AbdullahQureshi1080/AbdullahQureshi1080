@@ -19,7 +19,7 @@
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
-I am a React Native Engineer with a passion for UX design, I am slowly transitioning to UX design from a passionate hoppy to full time deal with development as a hobby. 
+I am a React Native Engineer with a passion for UX design, I am slowly transitioning to UX design from a passionate hobby to full time deal with development as a hobby. 
 
 </details> 
 
