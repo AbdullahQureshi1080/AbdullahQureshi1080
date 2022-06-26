@@ -7,6 +7,10 @@
 <!-- - ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme)) -->
 
 
+🤹‍♂️ **I am also active on Gitlab**
+<a href="https://gitlab.com/abdullahqureshi5" target="blank"><img align="center" src="https://about.gitlab.com/images/press/logo/wm.svg" alt="gitlab" height="30" width="40" /></a>
+
+
 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://twitter.com/Abdullah_NQ5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdullahqureshi" height="30" width="40" /></a>
