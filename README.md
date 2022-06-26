@@ -1,7 +1,7 @@
 ### Hi there <a href="https://www.linkedin.com/in/abdullah-qureshi5/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently working with react-native and learning typescript. 
+<!-- - 🔭 &nbsp;I’m currently working on something cool :wink: -->
+- 🌱 &nbsp;I’m currently working with React Native and learning TypeScript. 
 - 📫 &nbsp;How to reach me: [@Abdullah_NQ5](https://twitter.com/Abdullah_NQ5) 
 <!-- - 👨‍💻 &nbsp;Read more about my projects at [abdullahqureshi.com](https://www.abdullahqureshi.com/#portfolio) -->
 <!-- - ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme)) -->
