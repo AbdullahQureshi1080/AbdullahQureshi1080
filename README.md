@@ -2,7 +2,7 @@
 
 <!-- - 🔭 &nbsp;I’m currently working on something cool :wink: -->
 - 🌱 &nbsp;I’m currently working with React Native and learning TypeScript. 
-- 📫 &nbsp;How to reach me: [@Abdullah_NQ5](https://twitter.com/Abdullah_NQ5) 
+- 📫 &nbsp;How to reach me: [email me](mailto:adnx1080@gmail.com?subject=From%20Github&body=Hi,%20I'm%20reaching%20out%20to%20you%20after%20seeing%20your%20github%20profile,%20I%20would%20 like%20to%20what%20ever%20you%20want%20to%20say%20...%20) 
 <!-- - 👨‍💻 &nbsp;Read more about my projects at [abdullahqureshi.com](https://www.abdullahqureshi.com/#portfolio) -->
 <!-- - ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme)) -->
 
