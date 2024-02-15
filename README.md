@@ -1,7 +1,7 @@
 ### Hi there <a href="https://www.linkedin.com/in/abdullah-qureshi5/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 <!-- - 🔭 &nbsp;I’m currently working on something cool :wink: -->
-- 🌱 &nbsp;I’m currently working with React Native and learning TypeScript. 
+- 🌱 &nbsp I worked on a lot of cool things, currently maintaining an open-source project [superforms-rn](https://www.npmjs.com/package/@superforms/superforms-rn). 
 - 📫 &nbsp;How to reach me: [@email me](mailto:adnx1080@gmail.com?subject=[GitHub]%20Source%20My%20Profile&body=Hi,%20I'm%20reaching%20out%20to%20you%20after%20seeing%20your%20github%20profile,%20I%20would%20like%20to%20what%20ever%20you%20want%20to%20say%20...%20)
 
 <!-- - 👨‍💻 &nbsp;Read more about my projects at [abdullahqureshi.com](https://www.abdullahqureshi.com/#portfolio) -->
