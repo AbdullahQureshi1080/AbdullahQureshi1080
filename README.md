@@ -2,8 +2,8 @@
 
 
 <!-- - 🔭 &nbsp;I’m currently working on something cool :wink: -->
-- 🌱 &nbsp; I worked on a lot of cool things, currently maintaining an open-source project [superforms-rn](https://www.npmjs.com/package/@superforms/superforms-rn). 
-- 📫 &nbsp;How to reach me: [@email me](mailto:adnx1080@gmail.com?subject=[GitHub]%20Source%20My%20Profile&body=Hi,%20I'm%20reaching%20out%20to%20you%20after%20seeing%20your%20github%20profile,%20I%20would%20like%20to%20what%20ever%20you%20want%20to%20say%20...%20)
+- 🌱 &nbsp;I worked on a lot of cool things, currently maintaining an open-source project _[superforms-rn](https://www.npmjs.com/package/@superforms/superforms-rn)_. 
+- 📫 &nbsp;How to reach me: _[@email me](mailto:adnx1080@gmail.com?subject=[GitHub]%20Source%20My%20Profile&body=Hi,%20I'm%20reaching%20out%20to%20you%20after%20seeing%20your%20github%20profile,%20I%20would%20like%20to%20what%20ever%20you%20want%20to%20say%20...%20)_
 
 <!-- - 👨‍💻 &nbsp;Read more about my projects at [abdullahqureshi.com](https://www.abdullahqureshi.com/#portfolio) -->
 <!-- - ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme)) -->
@@ -28,9 +28,9 @@
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
-I was a software engineer with a passion for UX design. And I have transitioned to UX design full-time in 2023. And exploring different new things in the realm of design and product.
+I was a software engineer with a passion for UX design. And I have transitioned to UX design/Product full-time in 2023. And exploring different new things in the realm of design and product.
 
-__Ps: From time to time, I do get my hands on writing code for anything that intrigues me.__
+_Ps: From time to time, I do get my hands on writing code for anything that intrigues me._
 
 </details> 
 
