@@ -6,15 +6,17 @@
 - 📫 &nbsp;How to reach me: _[@email me](mailto:abdullah.n.qureshi99@gmail.com?subject=[GitHub]%20Hello&body=Hi,%20reaching%20out%20after%20seeing%20your%20GitHub...)_
 
 🔗 &nbsp;**Connect with me**
-<p align="left">
-<a href="https://twitter.com/Abdullah_NQ5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abdullah-qureshi5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13569876/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a>
+<p>
+<a href="https://twitter.com/Abdullah_NQ5" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/abdullah-qureshi5/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/13569876/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30"></a>
 </p>
 
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
-  <br/>
+<br/>
 
 Started as a software engineer, moved into product and design to work closer to users and outcomes.
 
